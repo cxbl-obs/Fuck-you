@@ -12,3 +12,4 @@
 ## Quem quer que tenha roubado esta conta, tem a mãe morta. Não há mãe!
 من سرق هذا الحساب، أم ميتة. لا أم
 ## 谁盗这个账户，谁死妈。没母！
+## 誰盜這個帳戶，誰死媽。沒母！
