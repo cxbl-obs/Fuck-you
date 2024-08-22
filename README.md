@@ -11,3 +11,4 @@
 ## Siapa pun yang mencuri akun ini, ibu yang mati. Tidak ada ibu!
 ## Quem quer que tenha roubado esta conta, tem a mãe morta. Não há mãe!
 من سرق هذا الحساب، أم ميتة. لا أم
+## 谁盗这个账户，谁死妈。没母！
